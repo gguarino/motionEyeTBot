@@ -1,0 +1,7 @@
+botconfig.py
+__pycache__
+*.log
+tests
+sendToPinux.py
+startBot
+stopBot
